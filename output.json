@@ -1,0 +1,65 @@
+[
+    {
+        "neighborhood": "Eden Gardens",
+        "total_average_time_respond": 0.0,
+        "total_average_time_arrival": 0.0,
+        "total_average_response_time": 7.7,
+        "population": 1
+    },
+    {
+        "neighborhood": "Buffalo Charles",
+        "total_average_time_respond": 0.0,
+        "total_average_time_arrival": 0.0,
+        "total_average_response_time": 22.8,
+        "population": 1
+    },
+    {
+        "neighborhood": "New Center",
+        "total_average_time_respond": 0.0,
+        "total_average_time_arrival": 0.0,
+        "total_average_response_time": 18.7,
+        "population": 1
+    },
+    {
+        "neighborhood": "O'Hair Park",
+        "total_average_time_respond": 0.0,
+        "total_average_time_arrival": 0.0,
+        "total_average_response_time": 0.8,
+        "population": 1
+    },
+    {
+        "neighborhood": "Miller Grove",
+        "total_average_time_respond": 0.0,
+        "total_average_time_arrival": 0.0,
+        "total_average_response_time": 5.0,
+        "population": 1
+    },
+    {
+        "neighborhood": "Elmwood Park",
+        "total_average_time_respond": 4.6,
+        "total_average_time_arrival": 102.2,
+        "total_average_response_time": 127.0,
+        "population": 1
+    },
+    {
+        "neighborhood": "Downtown",
+        "total_average_time_respond": 0.0,
+        "total_average_time_arrival": 0.0,
+        "total_average_response_time": 6.8,
+        "population": 1
+    },
+    {
+        "neighborhood": "Warrendale",
+        "total_average_time_respond": 9.7,
+        "total_average_time_arrival": 16.6,
+        "total_average_response_time": 43.7,
+        "population": 1
+    },
+    {
+        "neighborhood": "Palmer Park",
+        "total_average_time_respond": 11.1,
+        "total_average_time_arrival": 57.0,
+        "total_average_response_time": 62.1,
+        "population": 1
+    }
+]
